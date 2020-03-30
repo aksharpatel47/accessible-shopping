@@ -1,2 +1,6 @@
 dataset
 node_modules
+.mypy_cache
+.ipynb_checkpoints
+.pytest_cache
+.vscode
